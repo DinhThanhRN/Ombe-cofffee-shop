@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "16229969776",
+    "project_id": "ombe-coffeee-shop-app",
+    "storage_bucket": "ombe-coffeee-shop-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16229969776:android:ec97008e8e13a079a2e9b5",
+        "android_client_info": {
+          "package_name": "com.dinhthanh2703.ombecoffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16229969776-9u1r2pgb5gldm2qf67jve6projvqp5ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm30ghChvrQ_oHORGgIZPCLqoWSCMrJ9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16229969776-9u1r2pgb5gldm2qf67jve6projvqp5ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16229969776:android:660aae957cd1a47da2e9b5",
+        "android_client_info": {
+          "package_name": "com.ombecoffeeshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16229969776-9u1r2pgb5gldm2qf67jve6projvqp5ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm30ghChvrQ_oHORGgIZPCLqoWSCMrJ9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16229969776-9u1r2pgb5gldm2qf67jve6projvqp5ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
